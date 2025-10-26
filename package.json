@@ -56,7 +56,7 @@
     "express-session": "^1.12.1",
     "express-state": "^1.2.0",
     "express-validator": "^2.18.0",
-    "fetchr": "~0.5.12",
+    "fetchr": "~0.7.0",
     "frameguard": "^2.0.0",
     "gitter-sidecar": "^1.2.3",
     "helmet": "^2.0.0",
